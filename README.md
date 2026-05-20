@@ -229,6 +229,10 @@ https://explain.datadoghq.com/*?splat=
 
 # 历史greenplum知识点介绍
 
+## 202605 月
+
+1、[PostgreSQL缓冲区简介](202605/PostgreSQL缓冲区简介.md)
+
 ## 202604 月
 
 1、[MySQL2PG-v3.4.0发布,重新定义MySQL到PostgreSQL迁移的神器](202604/MySQL2PG_v3.4.0正式发布.md)
