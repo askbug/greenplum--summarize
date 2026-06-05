@@ -229,6 +229,10 @@ https://explain.datadoghq.com/*?splat=
 
 # 历史greenplum知识点介绍
 
+## 202606 月
+
+1、[postgresql19-beta1重磅发布](202606/postgresql19-beta1重磅发布)
+
 ## 202605 月
 
 1、[PostgreSQL缓冲区简介](202605/PostgreSQL缓冲区简介.md)
