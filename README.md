@@ -232,6 +232,7 @@ https://explain.datadoghq.com/*?splat=
 ## 202606 月
 
 1、[postgresql19-beta1重磅发布](202606/postgresql19-beta1重磅发布)
+2、[PostgreSQL 19.0 Beta1发布](document/postgresql19_beta1_new_features_en_20260604-1.pdf)
 
 ## 202605 月
 
